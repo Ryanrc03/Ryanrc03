@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ryanrc03
+- 👋 Hi, I’m @Ryan Rongcheng Li
 - 👀 I’m interested in Computer Science and Artifical Intelligence
 - 🌱 I’m currently learning **BNU-HKBU** **U**nite **I**nternational **C**ollege
 - 💞️ I’m looking to collaborate on AI Applications
