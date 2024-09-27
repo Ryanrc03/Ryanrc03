@@ -10,6 +10,8 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Ryan}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 --->
 
+---
+
 <p align="center">
   <strong>You are the: </strong>
 </p>
