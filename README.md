@@ -12,15 +12,14 @@
 
 ---
 
-<hr style="border: 1px solid red; width: 80%;" />
-
 <p align="center">
-  <strong>You are the: </strong>
+  <strong style="color: red;">You are the: </strong>
 </p>
 
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Ryan}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Ryan}/count.svg" alt="AnhellO :: Visitor's Count" />
+</p>
 
 <p align="center">
-  <strong>Visitors, Welcome!</strong>
+  <strong style="color: red;">Visitors, Welcome!</strong>
 </p>
