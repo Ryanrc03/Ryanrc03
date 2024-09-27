@@ -7,8 +7,7 @@
 - ⚡ Fun fact: ...
 
 <!---
-Ryanrc03/Ryanrc03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<p align="center">< img src="https://profile-counter.glitch.me/{Ryan}/count.svg" alt="AnhellO :: Visitor's Count" /></p >
 --->
 
-<p align="center">< img src="https://profile-counter.glitch.me/{Ryan}/count.svg" alt="AnhellO :: Visitor's Count" /></p >
+
