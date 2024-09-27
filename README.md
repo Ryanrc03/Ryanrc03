@@ -12,6 +12,8 @@
 
 ---
 
+<hr style="border: 1px solid red; width: 80%;" />
+
 <p align="center">
   <strong>You are the: </strong>
 </p>
