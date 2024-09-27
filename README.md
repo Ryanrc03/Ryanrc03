@@ -10,8 +10,13 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Ryan}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 --->
 
-You are the: 
+<p align="center">
+  <strong>You are the: </strong>
+</p>
+
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Ryan}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-Visitors, Welcome! 
+<p align="center">
+  <strong>Visitors, Welcome!</strong>
+</p>
