@@ -12,6 +12,10 @@
 
 ---
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vwAM8nS-CDhyPB__0mE5TiLYCGRNT_LrEGbGoiguHRg&cl=ffffff&w=a"></script>
+
+---
+
 <p align="center">
   <strong style="color: red;">You are the: </strong>
 </p>
