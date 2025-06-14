@@ -1,6 +1,6 @@
 👋 Hi, I’m @Ryan Rongcheng Li  
 👀 I’m interested in Computer Science and Artificial Intelligence  
-🌱 I’m currently learning **BNU-HKBU Unite International College (UIC)**  
+🌱 I’m currently learning in **Rice University**  
 💞️ I’m looking to collaborate Applications on **AI** and **Machine Learning** 
 📫 Here is my [Homepage](http://ryanhomepage.voin.ink/)  
 😄 Pronouns: Ryan  
