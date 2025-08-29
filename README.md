@@ -12,7 +12,7 @@
 
 ---
 
-
+<!---
 <p align="center">
   <strong style="color: red;">You are the: </strong>
 </p>
@@ -24,3 +24,4 @@
 <p align="center">
   <strong style="color: red;">Visitors, Welcome!</strong>
 </p>
+--->
