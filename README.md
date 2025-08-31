@@ -6,6 +6,8 @@
 😄 Pronouns: He/Him  
 ⚡ Fun fact: Houston Rockers🚀 fans! 
 
+![](https://komarev.com/ghpvc/?username=Ryanrc03)
+
 <!---
 <p align="center"><img src="https://profile-counter.glitch.me/{Ryan}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 --->
